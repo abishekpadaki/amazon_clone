@@ -6,6 +6,7 @@ import Header from "./Components/Header/Header";
 import Login from "./Components/Login/Login.js";
 import {auth} from "./firebase"
 import { useStateValue } from "./StateProvider";
+import Checkout from "./Components/Checkout/Checkout";
 
 
 function App() {
@@ -40,6 +41,8 @@ return (
     <Router>
       <Routes>
       <Route path="/login" element={<Login/>}>
+      </Route>
+      <Route path="/checkout" element={<Checkout/>}>
       </Route>
         <Route path="/" element={<><Header/><Home/></>}>
         </Route>
