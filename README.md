@@ -22,7 +22,7 @@
 
 ## Steps to run in your machine
 
-#### Run the following commands
+#### Run the following commands 
 ```
 npm i
 npm run start
