@@ -1,6 +1,6 @@
 # Amazon Shopping - Clone using ReactJs and Firebase
 
-**Project Link** - *** ***
+**Project Link** - ***https://abiks-amazon-clone.vercel.app/***
 
 ## Technologies Used
 
